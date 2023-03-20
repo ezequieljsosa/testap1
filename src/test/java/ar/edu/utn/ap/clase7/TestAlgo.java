@@ -8,4 +8,8 @@ public class TestAlgo {
 	public void untestY() {
 		System.out.println("hola");
 	} 
+	
+	public void untestZ() {
+		System.out.println("chau");
+	} 
 }
